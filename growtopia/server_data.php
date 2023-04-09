@@ -1,0 +1,1 @@
+server|172.105.126.241 port|17091 type|1 #maint|Server is under maintenance. We will be back online shortly. Thank you for your patience! beta_server|beta.growtopiagame.com beta_port|27003 beta_type|1 meta|172.105.126.241 RTENDMARKERBS1001
